@@ -85,7 +85,11 @@ Developed by:P.Sasinthar. RegisterNumber:212223230199*/
 
 **Output/TIMING Waveform**
 
-![alt text](<Screenshot 2024-03-19 135557.png>)
+# HALF_ADDER:
+![alt text](<Screenshot 2024-03-19 141845.png>)
+
+# HALF_SUBTRACTOR:
+![alt text](<Screenshot 2024-03-19 141854.png>)
 
 **Result:**
 The output is verified successfully
